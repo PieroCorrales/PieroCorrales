@@ -15,6 +15,10 @@ Apasionado por la tecnología, con experiencia en desarrollo web full-stack y en
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
 
 ### Data & Analytics
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -39,6 +43,21 @@ Sistema de gestión web para una academia de baile desarrollado como Trabajo de 
 Incluye sistema de reservas, panel de administración y autenticación de usuarios.
 
 `PHP` `MySQL` `Bootstrap` `MVC` `JavaScript`
+
+### ✅ [Taskly](https://github.com/PieroCorrales/taskly)
+Aplicación de gestión de tareas moderna construida con JavaScript vanilla. Interfaz limpia y funcional para organizar el flujo de trabajo diario.
+
+`JavaScript` `HTML5` `CSS3` `Vanilla JS`
+
+### 📊 [Cardiovascular Risk Analysis](https://github.com/PieroCorrales/cardiovascular-risk-analysis)
+Análisis de datos de riesgo cardiovascular usando Python y Jupyter Notebook. Exploración, limpieza y visualización de datos clínicos para identificar patrones y factores de riesgo.
+
+`Python` `Jupyter` `Pandas` `Data Science` `EDA`
+
+### 🌐 [Portfolio Landing](https://pierocorrales.github.io)
+Landing page personal construida con React + Vite. Diseño dark theme con animaciones de scroll y deploy automático con GitHub Actions.
+
+`React` `Vite` `CSS3` `GitHub Actions`
 
 ---
 
